@@ -11,5 +11,8 @@
             "name": "Jay Lim",
             "email": "jay@pentajeu.com"
         }
-    ]
+    ],
+    "autoload": {
+        "files": ["init.php"]
+    }
 }
