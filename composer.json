@@ -1,0 +1,15 @@
+{
+    "name": "pentajeu/yii2-image-gallery",
+    "description": "Yii2 image gallery based on https://bitbucket.org/z_bodya/gallerymanager",
+    "require": {
+        "yiisoft/yii2-jui": "*",
+        "yiisoft/yii2-imagine": "~2.0"
+    },
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Jay Lim",
+            "email": "jay@pentajeu.com"
+        }
+    ]
+}
